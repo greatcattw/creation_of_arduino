@@ -4,6 +4,8 @@
 ![pic](pic/cateye.png)<br>
 uA741 with R1=R2=10K ohm, as inverting amplifier.  
 <br>
+![pic](pic/ua741.png)<br>
+<br>
 ![pic](pic/cateye_brd.jpg)<br>
 Remove D2 and input signal as arrow.  
 <br>
