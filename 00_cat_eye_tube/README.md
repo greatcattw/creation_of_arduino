@@ -18,4 +18,9 @@ Phototype1, check range of 0 ~ -5v.
 Phototype2  
 ![pic](pic/phototype2.jpg)<br>
 <br>
+Final version
+![pic](pic/s_mp2.jpg)<br>
+<br>
+[[Video_1]](https://youtu.be/gk1ZZpDRiPU)<br>
+<br>
 確保已安裝 Adafruit 的 MCP4725 庫，可以通過 Arduino IDE 的庫管理器來安裝。<br>
